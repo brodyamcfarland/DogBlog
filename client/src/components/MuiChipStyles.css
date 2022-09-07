@@ -1,0 +1,3 @@
+.MuiChip-label {
+    @apply font-bold text-black
+}
